@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Project
+
+App to check super heros from Marvel or DC, developed in React. To check the app in production visit this link:
+
+https://react-heroes-app-lyart.vercel.app/login
+
 ## Available Scripts
 
 In the project directory, you can run:
